@@ -20,7 +20,7 @@ while inicio != -1:
         if numero == -1: #Indica que cuando escrivs -1 se te indicara si el numero anterior es par o impar
             print('La cantidad ingresada es par.') #Indica que la cantidad es par
 
-            ![image](https://github.com/user-attachments/assets/15b16836-fcce-4816-83aa-ed727444a830)
+![image](https://github.com/user-attachments/assets/15b16836-fcce-4816-83aa-ed727444a830)
 
-            ![image](https://github.com/user-attachments/assets/78bd51c5-9238-4cf0-bff9-b7c0ac89f30d)
+![image](https://github.com/user-attachments/assets/78bd51c5-9238-4cf0-bff9-b7c0ac89f30d)
 
